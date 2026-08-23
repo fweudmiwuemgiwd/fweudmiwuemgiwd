@@ -14,19 +14,19 @@
 
 <div align="left">
 <img src="https://railwayx3ui.page.gd/Gifs_Github/line.gif" width="30"/>
-<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+<img src="https://railwayx3ui.page.gd/Gifs_Github/vitejs.gif" width="50"/>
 &nbsp;&nbsp;
 <img src="https://railwayx3ui.page.gd/Gifs_Github/line.gif" width="30"/>
-<img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
+<img src="https://railwayx3ui.page.gd/Gifs_Github/node.gif" width="50"/>
 &nbsp;&nbsp;
 <img src="https://railwayx3ui.page.gd/Gifs_Github/line.gif" width="30"/>
-<img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+<img src="https://railwayx3ui.page.gd/Gifs_Github/react.gif" width="50"/>
 &nbsp;&nbsp;
 <img src="https://railwayx3ui.page.gd/Gifs_Github/line.gif" width="30"/>
-<img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+<img src="https://railwayx3ui.page.gd/Gifs_Github/pythonb.gif" width="50"/>
 &nbsp;&nbsp;
 <img src="https://railwayx3ui.page.gd/Gifs_Github/line.gif" width="30"/>
-<img src="https://skillicons.dev/icons?i=ts" width="40"/>
+<img src="https://railwayx3ui.page.gd/Gifs_Github/javascriptnew.gif" width="50"/>
 &nbsp;&nbsp;
 <img src="https://railwayx3ui.page.gd/Gifs_Github/line.gif" width="30"/>
 <img src="https://railwayx3ui.page.gd/Gifs_Github/php.gif" width="50"/>
