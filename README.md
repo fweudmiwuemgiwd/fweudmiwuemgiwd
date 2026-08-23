@@ -11,17 +11,10 @@
 <img src="https://railwayx3ui.page.gd/Gifs_Github/codingcir.gif" width="65" align="absmiddle"> A little more about me...
 
 <br>
-
-## 🚀 Tech Stack & Languages
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,html,css,php,mysql,cloudflare&theme=dark" />
-
 </div>
-
 <br>
-
 <table align="center">
 <tr>
 <td align="center" width="96">
@@ -76,7 +69,6 @@
 </td>
 </tr>
 </table>
-
 <br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
