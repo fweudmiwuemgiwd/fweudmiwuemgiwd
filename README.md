@@ -11,13 +11,43 @@
 <img src="https://railwayx3ui.page.gd/Gifs_Github/codingcir.gif" width="65" align="absmiddle"> A little more about me...
 
 <br>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,html,css,php,mysql,cloudflare&theme=dark" />
-</div>
-<br>
+
+<table align="left">
+<tr>
+<td><img src="" width="40" /></td>
+<td><img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" /> Python</td>
+</tr>
+<tr>
+<td><img src="" width="40" /></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36" alt="FastAPI" /> FastAPI</td>
+</tr>
+<tr>
+<td><img src="" width="40" /></td>
+<td><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /> React</td>
+</tr>
+<tr>
+<td><img src="" width="40" /></td>
+<td><img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" /> JavaScript</td>
+</tr>
+<tr>
+<td><img src="" width="40" /></td>
+<td><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /> TypeScript</td>
+</tr>
+<tr>
+<td><img src="" width="40" /></td>
+<td><img src="https://skillicons.dev/icons?i=php" width="36" height="36" alt="PHP" /> PHP</td>
+</tr>
+<tr>
+<td><img src="" width="40" /></td>
+<td><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" /> MySQL</td>
+</tr>
+<tr>
+<td><img src="" width="40" /></td>
+<td><img src="https://skillicons.dev/icons?i=cloudflare" width="36" height="36" alt="Cloudflare" /> Cloudflare</td>
 </tr>
 </table>
-<br>
+
+<br clear="left">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
