@@ -1,3 +1,14 @@
+<!-- ===== خط رشدکننده (SVG) — دور تیتر/گیف دایره‌ای می‌پیچه و میره پایین ===== -->
+<!-- این فایل رو باید توی ریپازیتوریت آپلود کنی (مثلاً assets/growing-vine.svg)
+     چون گیت‌هاب انیمیشن SVG رو فقط از طریق <img src="فایل svg مستقل"> نشون میده،
+     نه وقتی کد svg مستقیم وسط مارک‌داون باشه.
+     نکته‌ی مهم: مارک‌داون گیت‌هاب امکان overlay واقعی (قرار گرفتن svg دقیقاً پشت متن) رو نمیده،
+     پس این svg رو به صورت یک بنر بالای صفحه گذاشتم که اول یه کمان روی محل تیتر و گیف دایره‌ای می‌زنه
+     و بعد به پایین می‌ره؛ چیدمانش که زیرش میاد با همون فاصله‌بندی تنظیم شده که بصری هماهنگ باشه. -->
+<p align="center">
+  <img src="./assets/growing-vine.svg" width="480" alt="growing vine animation"/>
+</p>
+
 <h2>Hi, I'm Arvin Siz10! <img src="https://railwayx3ui.page.gd/Gifs_Github/github.gif" width="25" style="margin-top: 1rem;"></h2>
 <img align="right" src="https://railwayx3ui.page.gd/images/codebox_circle.gif" width="230">
 <p><em>Frontend Dev For You<br>I'm a full stack developer</em></p>
@@ -28,15 +39,6 @@
 <img src="https://railwayx3ui.page.gd/Gifs_Github/css.gif" width="40" />
 </div>
 <br>
-
-<!-- ===== خط رشدکننده (SVG) ===== -->
-<!-- این فایل رو باید توی ریپازیتوریت آپلود کنی (مثلاً توی پوشه‌ی assets/growing-vine.svg)
-     یا روی هاست خودت (railwayx3ui...) بذاری، بعد آدرسش رو جای src پایین بذاری.
-     چون گیت‌هاب انیمیشن SVG رو فقط وقتی از طریق <img src="..."> به یک فایل svg مستقل
-     لینک بدی نمایش میده؛ اگه svg رو مستقیم توی مارک‌داون بچسبونی، انیمیشنش حذف/غیرفعال میشه. -->
-<p align="center">
-  <img src="./assets/growing-vine.svg" width="70" alt="growing vine animation"/>
-</p>
 
 <div align="center">
   <a href="https://railwayx3ui.page.gd/wallet/donate.html">
