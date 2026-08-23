@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=200&section=header&text=Arvin%20Siz10&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <h2>Hi, I'm Arvin Siz10! <img src="https://railwayx3ui.page.gd/Gifs_Github/github.gif" width="25" style="margin-top: 1rem;"></h2>
 
