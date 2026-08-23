@@ -12,42 +12,33 @@
 
 <br>
 
-<table align="left">
-<tr>
-<td><img src="" width="40" /></td>
-<td><img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" /> Python</td>
-</tr>
-<tr>
-<td><img src="" width="40" /></td>
-<td><img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36" alt="FastAPI" /> FastAPI</td>
-</tr>
-<tr>
-<td><img src="" width="40" /></td>
-<td><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /> React</td>
-</tr>
-<tr>
-<td><img src="" width="40" /></td>
-<td><img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" /> JavaScript</td>
-</tr>
-<tr>
-<td><img src="" width="40" /></td>
-<td><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /> TypeScript</td>
-</tr>
-<tr>
-<td><img src="" width="40" /></td>
-<td><img src="https://skillicons.dev/icons?i=php" width="36" height="36" alt="PHP" /> PHP</td>
-</tr>
-<tr>
-<td><img src="" width="40" /></td>
-<td><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" /> MySQL</td>
-</tr>
-<tr>
-<td><img src="" width="40" /></td>
-<td><img src="https://skillicons.dev/icons?i=cloudflare" width="36" height="36" alt="Cloudflare" /> Cloudflare</td>
-</tr>
-</table>
+<div align="left">
+<img src="" width="40" />
+<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+&nbsp;&nbsp;
+<img src="" width="40" />
+<img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
+&nbsp;&nbsp;
+<img src="" width="40" />
+<img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+&nbsp;&nbsp;
+<img src="" width="40" />
+<img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+&nbsp;&nbsp;
+<img src="" width="40" />
+<img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+&nbsp;&nbsp;
+<img src="" width="40" />
+<img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+&nbsp;&nbsp;
+<img src="" width="40" />
+<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+&nbsp;&nbsp;
+<img src="" width="40" />
+<img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="Cloudflare" />
+</div>
 
-<br clear="left">
+<br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
