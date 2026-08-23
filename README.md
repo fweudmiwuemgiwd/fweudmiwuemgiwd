@@ -34,7 +34,7 @@
 <img src="" width="40" />
 <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
 &nbsp;&nbsp;
-<img src="https://railwayx3ui.page.gd/Gifs_Github/line.gif" width="40" />
+<img src="https://railwayx3ui.page.gd/Gifs_Github/line.gif" width="30" height="70"/>
 <img src="https://railwayx3ui.page.gd/Gifs_Github/css.gif" width="40" height="40" />
 </div>
 
