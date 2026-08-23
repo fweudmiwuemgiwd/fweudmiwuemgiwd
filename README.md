@@ -10,16 +10,74 @@
 
 <img src="https://railwayx3ui.page.gd/Gifs_Github/codingcir.gif" width="65" align="absmiddle"> A little more about me...
 
-```javascript
-const arvin = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "Python", "TypeScript", "HTML", "CSS"],
-  tools: ["React", "FastAPI", "Node", "Docker", "Cloudflare Workers"],
-  architecture: ["microservices", "event-driven", "proxy gateway design"],
-  focus: "Building RVG Gateway, Klasban, and Cloudflare-based tools",
-  challenge: "Currently exploring async Python and multi-protocol proxy architecture"
-}
-```
+<br>
+
+## 🚀 Tech Stack & Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,html,css,php,mysql,cloudflare&theme=dark" />
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br>CSS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+<br>Cloudflare
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+</tr>
+</table>
+
+<br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
