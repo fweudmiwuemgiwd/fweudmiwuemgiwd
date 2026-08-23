@@ -1,8 +1,5 @@
-
 <h2>Hi, I'm Arvin Siz10! <img src="https://railwayx3ui.page.gd/Gifs_Github/github.gif" width="25" style="margin-top: 1rem;"></h2>
-
 <img align="right" src="https://railwayx3ui.page.gd/images/codebox_circle.gif" width="230">
-
 <p><em>Frontend Dev For You<br>I'm a full stack developer</em></p>
 
 [![Telegram: CodeBox](https://img.shields.io/badge/-CodeBox-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/CodeBoxo)
@@ -10,8 +7,8 @@
 [![GitHub Arvin](https://img.shields.io/github/followers/arvin341az-glitch?label=follow&style=social)](https://github.com/arvin341az-glitch)
 
 <img src="https://railwayx3ui.page.gd/Gifs_Github/codingnow.gif" width="35" align="absmiddle">&nbsp;&nbsp;&nbsp;  𝓐 𝓵𝓲𝓽𝓽𝓵𝓮 𝓶𝓸𝓻𝓮 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮...
-
 <br>
+
 <div align="left">
 <img src="https://railwayx3ui.page.gd/Gifs_Github/line.gif" width="30"/>
 <img src="https://railwayx3ui.page.gd/Gifs_Github/vitejs.gif" width="38"/>
@@ -30,8 +27,21 @@
 <img src="https://railwayx3ui.page.gd/Gifs_Github/line.gif" width="30"/>
 <img src="https://railwayx3ui.page.gd/Gifs_Github/css.gif" width="40" />
 </div>
-
 <br>
 
-⭐️ From [@arvin341az-glitch](https://github.com/arvin341az-glitch)
+<!-- ===== خط رشدکننده (SVG) ===== -->
+<!-- این فایل رو باید توی ریپازیتوریت آپلود کنی (مثلاً توی پوشه‌ی assets/growing-vine.svg)
+     یا روی هاست خودت (railwayx3ui...) بذاری، بعد آدرسش رو جای src پایین بذاری.
+     چون گیت‌هاب انیمیشن SVG رو فقط وقتی از طریق <img src="..."> به یک فایل svg مستقل
+     لینک بدی نمایش میده؛ اگه svg رو مستقیم توی مارک‌داون بچسبونی، انیمیشنش حذف/غیرفعال میشه. -->
+<p align="center">
+  <img src="./assets/growing-vine.svg" width="70" alt="growing vine animation"/>
+</p>
 
+<div align="center">
+  <a href="https://railwayx3ui.page.gd/wallet/donate.html">
+    <img src="https://railwayx3ui.page.gd/Gifs_Github/Donate.gif" width="180" alt="Donate"/>
+  </a>
+</div>
+
+⭐️ From [@arvin341az-glitch](https://github.com/arvin341az-glitch)
