@@ -1,0 +1,92 @@
+<svg width="70" height="500" viewBox="0 0 70 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="vineGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00ffa3"/>
+      <stop offset="50%" stop-color="#00d1ff"/>
+      <stop offset="100%" stop-color="#7000ff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- مسیر اصلی: از بالا تا پایین، با چند حلقه شبیه رشد گیاه روی دیوار -->
+  <path id="vinePath"
+        d="M35,0
+           C35,25 35,45 35,60
+           C35,80 60,85 60,105
+           C60,125 35,128 35,148
+           C35,168 10,172 10,192
+           C10,212 35,216 35,236
+           C35,256 60,258 60,278
+           C60,298 35,300 35,320
+           C35,340 12,344 12,364
+           C12,384 35,388 35,408
+           C35,428 58,430 58,450
+           C58,470 35,474 35,494
+           C35,500 35,500 35,500"
+        fill="none"
+        stroke="url(#vineGradient)"
+        stroke-width="3.5"
+        stroke-linecap="round"
+        filter="url(#glow)"
+        pathLength="1000"
+        stroke-dasharray="1000"
+        stroke-dashoffset="1000">
+    <animate attributeName="stroke-dashoffset"
+             from="1000" to="0"
+             dur="3.5s"
+             begin="0s"
+             fill="freeze"
+             calcMode="spline"
+             keySplines="0.25 0.1 0.25 1"/>
+  </path>
+
+  <!-- برگ‌های کوچک که سر راه، با تأخیر، محو می‌شوند داخل -->
+  <g fill="#00ffa3" filter="url(#glow)">
+    <circle cx="60" cy="105" r="0" opacity="0">
+      <animate attributeName="r" from="0" to="5" begin="0.65s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/>
+    </circle>
+    <circle cx="10" cy="192" r="0" opacity="0" fill="#00d1ff">
+      <animate attributeName="r" from="0" to="5" begin="1.45s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" begin="1.45s" dur="0.4s" fill="freeze"/>
+    </circle>
+    <circle cx="60" cy="278" r="0" opacity="0">
+      <animate attributeName="r" from="0" to="5" begin="2.15s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" begin="2.15s" dur="0.4s" fill="freeze"/>
+    </circle>
+    <circle cx="12" cy="364" r="0" opacity="0" fill="#7000ff">
+      <animate attributeName="r" from="0" to="5" begin="2.75s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.4s" fill="freeze"/>
+    </circle>
+    <circle cx="58" cy="450" r="0" opacity="0">
+      <animate attributeName="r" from="0" to="5" begin="3.2s" dur="0.4s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.4s" fill="freeze"/>
+    </circle>
+  </g>
+
+  <!-- نقطه‌ی درخشان نوکِ در حال رشد -->
+  <circle r="4" fill="#ffffff" filter="url(#glow)">
+    <animateMotion dur="3.5s" fill="freeze" calcMode="spline"
+                   keySplines="0.25 0.1 0.25 1"
+                   path="M35,0
+                         C35,25 35,45 35,60
+                         C35,80 60,85 60,105
+                         C60,125 35,128 35,148
+                         C35,168 10,172 10,192
+                         C10,212 35,216 35,236
+                         C35,256 60,258 60,278
+                         C60,298 35,300 35,320
+                         C35,340 12,344 12,364
+                         C12,384 35,388 35,408
+                         C35,428 58,430 58,450
+                         C58,470 35,474 35,494
+                         C35,500 35,500 35,500"/>
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" dur="3.5s" fill="freeze"/>
+  </circle>
+</svg>
