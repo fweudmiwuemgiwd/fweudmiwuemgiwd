@@ -4,9 +4,7 @@
 </em></p>
 
 [![Telegram: CodeBox](https://img.shields.io/badge/-CodeBox-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/CodeBoxo)]((https://t.me/CodeBoxo))
-
 [![youtube: CodeBox](https://img.shields.io/badge/-CodeBox-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@Code_Box-c6f)]((https://www.youtube.com/@Code_Box-c6f))
-
 [![GitHub Arvin](https://img.shields.io/github/followers/arvin341az-glitch?label=follow&style=social)](https://github.com/arvin341az-glitch)
 
 
