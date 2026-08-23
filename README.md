@@ -26,7 +26,7 @@
 <img src="https://railwayx3ui.page.gd/Gifs_Github/pythonb.gif" width="50"/>
 &nbsp;&nbsp;
 <img src="https://railwayx3ui.page.gd/Gifs_Github/line.gif" width="30"/>
-<img src="https://railwayx3ui.page.gd/Gifs_Github/javascriptnew.gif" width="50"/>
+<img src="https://railwayx3ui.page.gd/Gifs_Github/javascrptnew.gif" width="50"/>
 &nbsp;&nbsp;
 <img src="https://railwayx3ui.page.gd/Gifs_Github/line.gif" width="30"/>
 <img src="https://railwayx3ui.page.gd/Gifs_Github/php.gif" width="50"/>
