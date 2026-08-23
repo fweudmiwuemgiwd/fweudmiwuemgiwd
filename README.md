@@ -3,7 +3,10 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Telegram: thaianebraga](https://img.shields.io/badge/-CodeBox-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/CodeBoxo)]([https://www.linkedin.com/in/thaianebraga/](https://t.me/CodeBoxo))
+[![Telegram: CodeBox](https://img.shields.io/badge/-CodeBox-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/CodeBoxo)]((https://t.me/CodeBoxo))
+
+[![youtube: CodeBox](https://img.shields.io/badge/-CodeBox-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@Code_Box-c6f)]((https://www.youtube.com/@Code_Box-c6f))
+
 [![GitHub Arvin](https://img.shields.io/github/followers/arvin341az-glitch?label=follow&style=social)](https://github.com/arvin341az-glitch)
 
 
