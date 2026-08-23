@@ -8,7 +8,12 @@
 [![YouTube: CodeBox](https://img.shields.io/badge/-CodeBox-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Code_Box-c6f)
 [![GitHub Arvin](https://img.shields.io/github/followers/arvin341az-glitch?label=follow&style=social)](https://github.com/arvin341az-glitch)
 
-<img src="https://railwayx3ui.page.gd/Gifs_Github/codingcir.gif" width="80" left="-150px" align="absmiddle"> A little more about me...
+<table>
+<tr>
+<td width="110" style="border: none;"><img src="https://railwayx3ui.page.gd/Gifs_Github/codingcir.gif" width="100"></td>
+<td style="border: none;"><h3>A little more about me...</h3></td>
+</tr>
+</table>
 
 ```javascript
 const arvin = {
