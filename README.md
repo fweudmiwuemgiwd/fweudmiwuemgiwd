@@ -8,7 +8,7 @@
 [![GitHub Arvin](https://img.shields.io/github/followers/arvin341az-glitch?label=follow&style=social)](https://github.com/arvin341az-glitch)
 
 
-### <img src="https://railwayx3ui.page.gd/Gifs_Github/codingnow.gif" width="10"> A little more about me...  
+### <img src="https://railwayx3ui.page.gd/Gifs_Github/codingnow.gif" width="20"> A little more about me...  
 
 ```javascript
 const thai = {
